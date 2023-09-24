@@ -1,4 +1,4 @@
 buildCommand: npm install
 env:
   - key: NODE_VERSION
-    value: 14
+    value: 20
