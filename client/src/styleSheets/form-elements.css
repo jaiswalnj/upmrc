@@ -1,0 +1,38 @@
+input,
+select {
+  height: 40px !important;
+  padding: 10px 20px !important;
+  border: 2px solid rgb(131, 130, 130) !important;
+  width: 100%;
+  border-radius: 2px !important;
+}
+
+.ant-form-item {
+  margin-bottom: 5px !important;
+}
+
+button {
+  padding: 0px 20px;
+  border-radius: 10px;
+  height: 35px !important;
+}
+
+.primary-outlined-btn {
+  background-color: white;
+  color: var(--primary);
+  border: 2px solid var(--primary);
+}
+
+.primary-contained-btn {
+  background-color: #661212;
+  color: #ffffff;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.primary-contained-btn:hover {
+  background-color: #661212;
+}
