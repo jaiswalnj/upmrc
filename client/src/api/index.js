@@ -1,6 +1,6 @@
 import axios from "axios";
 const apiInstance = axios.create({
-  baseURL: "http://localhost:5001/api",
+  baseURL: "https://upmrctest.onrender.com/api",
   headers: {
     Authorization: `Bearer ${localStorage.getItem("token")}`,
   },
